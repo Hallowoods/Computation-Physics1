@@ -1,0 +1,1 @@
+plt.scatter(points_x, points_y, label='Data Points')
